@@ -1,0 +1,32 @@
+[SkinInfo]]
+Title=Default Lanman Skin
+Author=Andrew Cranston
+Description=Default application skin
+
+[SkinFiles]
+00=LoginScreen.bmp
+01=Window1.bmp
+02=buttonbar0.bmp
+03=buttonbar1.bmp
+04=buttonbar2.bmp
+05=buttonbar3.bmp
+06=buttonbar4.bmp
+07=UserListPic.bmp
+08=tleft0.bmp
+09=tleft1.bmp
+10=tTile0.bmp
+11=tTile1.bmp
+12=tRight0.bmp
+13=tRight1.bmp
+14=krnbl.bmp
+15=krnbr.bmp
+16=krntl.bmp
+17=krntr.bmp
+18=krnrv.bmp
+19=krnlv.bmp
+20=krnwnd.bmp
+21=krnbh.bmp
+22=krnth.bmp
+BGR=48
+BGG=80
+BGB=87
